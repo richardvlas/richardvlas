@@ -1,5 +1,9 @@
 ## Hi there, I'm Richard Vlas! 👋
 
+- 🔭 I’m currently working on: Building scalable AI systems, MLOps, and intelligent assistants while enhancing robust software architectures.
+- 💬 Ask me about: AI-driven systems, LLMs and intelligent assistants, software architecture and design patterns, efficient workflows and ML orchestration.
+- 📫 How to reach me: Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/richardvlas/).
+
 
 
 <!--
