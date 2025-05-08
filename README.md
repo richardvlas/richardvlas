@@ -16,7 +16,6 @@
 Below are some of the frameworks, libraries, and tools I regularly use and enjoy working with. For more of my work, check out my GitHub repositories!
 
 🧠 **Machine Learning**
-
 Transformers, PyTorch, ONNX, ggml tensor library, Scikit-Learn, LangChain & LangGraph, FastEmbed, OpenAI API, Azure Cognitive Services
 
 🛠️ **Software Engineering & Architecture**
